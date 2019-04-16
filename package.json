@@ -1,0 +1,19 @@
+{
+  "name": "pgradsystem",
+  "version": "1.0.0",
+  "description": "Group Project II - UCSCPGD Management System",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wmuwndb/pgradsystem.git"
+  },
+  "author": "Group26",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wmuwndb/pgradsystem/issues"
+  },
+  "homepage": "https://github.com/wmuwndb/pgradsystem#readme"
+}
